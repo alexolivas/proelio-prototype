@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c23a915a4b45ee13f057659b2f2dcb32",
+    "revision": "9a179d161ee940666a6b02d0f60cb2b6",
     "url": "/proelio-prototype/index.html"
   },
   {
-    "revision": "fbbf5f72cce21325a12d",
+    "revision": "08b2e32e76244a1fdacb",
     "url": "/proelio-prototype/static/css/2.3f320bb4.chunk.css"
   },
   {
-    "revision": "bca770d04a3b348095f3",
-    "url": "/proelio-prototype/static/css/main.7f0d1af2.chunk.css"
+    "revision": "dad918d2e235eff2d22d",
+    "url": "/proelio-prototype/static/css/main.c81ba78f.chunk.css"
   },
   {
-    "revision": "fbbf5f72cce21325a12d",
-    "url": "/proelio-prototype/static/js/2.8b534959.chunk.js"
+    "revision": "08b2e32e76244a1fdacb",
+    "url": "/proelio-prototype/static/js/2.578157e2.chunk.js"
   },
   {
     "revision": "8de50040f0d38ba00bdf5d2def5e9a16",
-    "url": "/proelio-prototype/static/js/2.8b534959.chunk.js.LICENSE.txt"
+    "url": "/proelio-prototype/static/js/2.578157e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bca770d04a3b348095f3",
-    "url": "/proelio-prototype/static/js/main.24646f2b.chunk.js"
+    "revision": "dad918d2e235eff2d22d",
+    "url": "/proelio-prototype/static/js/main.40d4c65d.chunk.js"
   },
   {
     "revision": "86ab52e00c2c1dc5ec61",
