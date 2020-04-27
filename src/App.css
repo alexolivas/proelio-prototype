@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.sidebar .logo .simple-text,
+.sidebar .nav i,
+.sidebar .nav p,
+.sidebar .nav li > a,
+.sidebar-wrapper ul li {
+  color: #212529 !important;
+}
+
+.fas .fa-atom {
+  color: yellow !important;
+}

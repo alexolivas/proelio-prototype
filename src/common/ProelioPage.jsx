@@ -44,7 +44,7 @@ class ProelioPage extends React.Component {
 				activeColor="green"
 				sidebarLogo={{
 					innerLink: "/",
-					text: "Proelio",
+					text: "Monkey Software",
 					imgSrc: "fas fa-atom fa-2x",
 					logoType: "icon",
 				}}

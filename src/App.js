@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 // import axios from "axios";
@@ -15,6 +15,9 @@ import { Route, Switch } from "react-router-dom";
 // import Welcome from "./common/Welcome";
 // import EntityDetails from "./entities/EntityDetails";
 import Dashboard from './dashboard/Dashboard';
+import EmployeeDirectory from "./employees/EmployeeDirectory";
+// import EmployeeDetails from "./employees/EmployeeDetails";
+import EmployeeDetails from './employees/EmployeeDetails';
 import ProelioPage from './common/ProelioPage';
 // import NotFound from "./common/NotFound";
 
@@ -50,22 +53,33 @@ class App extends React.Component {
 				name: "Employee Directory",
 				icon: "fas fa-user",
 				path: "/employees",
-				component: Dashboard,
+				component: EmployeeDirectory,
+				layout: "",
+			},
+		];
+		const hiddenRoutes = [
+			{
+				// name: "Employee Directory",
+				// icon: "fas fa-user",
+				path: "/employee/:id",
+				component: EmployeeDetails,
 				layout: "",
 			},
 		];
 		this.state = {
 			sideNavRoutes,
+			hiddenRoutes,
 		};
 	}
 
 	render() {
-		const { sideNavRoutes } = this.state;
+		const { sideNavRoutes, hiddenRoutes } = this.state;
 		return (
 			<ProelioPage routes={ sideNavRoutes }>
 				<Switch>
 					{ App.getRoutes(sideNavRoutes) }
-					<Route path="*" component={ Dashboard } />
+					{ App.getRoutes(hiddenRoutes) }
+					{/* <Route path="*" component={ Dashboard } /> */}
 				</Switch>
 			</ProelioPage>
 		);
