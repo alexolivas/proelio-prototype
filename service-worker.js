@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/proelio-prototype/precache-manifest.087b6d9b2303baa16a8c7b0ea7ad8ba3.js"
+  "/proelio-prototype/precache-manifest.7ff715936e505deeaa872385b7a5ef94.js"
 );
 
 self.addEventListener('message', (event) => {

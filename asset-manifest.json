@@ -1,27 +1,26 @@
 {
   "files": {
     "main.css": "/proelio-prototype/static/css/main.7f0d1af2.chunk.css",
-    "main.js": "/proelio-prototype/static/js/main.9aba9a2f.chunk.js",
-    "main.js.map": "/proelio-prototype/static/js/main.9aba9a2f.chunk.js.map",
+    "main.js": "/proelio-prototype/static/js/main.24646f2b.chunk.js",
+    "main.js.map": "/proelio-prototype/static/js/main.24646f2b.chunk.js.map",
     "runtime-main.js": "/proelio-prototype/static/js/runtime-main.86eb4796.js",
     "runtime-main.js.map": "/proelio-prototype/static/js/runtime-main.86eb4796.js.map",
     "static/css/2.3f320bb4.chunk.css": "/proelio-prototype/static/css/2.3f320bb4.chunk.css",
-    "static/js/2.7dbae67e.chunk.js": "/proelio-prototype/static/js/2.7dbae67e.chunk.js",
-    "static/js/2.7dbae67e.chunk.js.map": "/proelio-prototype/static/js/2.7dbae67e.chunk.js.map",
+    "static/js/2.8b534959.chunk.js": "/proelio-prototype/static/js/2.8b534959.chunk.js",
+    "static/js/2.8b534959.chunk.js.map": "/proelio-prototype/static/js/2.8b534959.chunk.js.map",
     "index.html": "/proelio-prototype/index.html",
-    "precache-manifest.087b6d9b2303baa16a8c7b0ea7ad8ba3.js": "/proelio-prototype/precache-manifest.087b6d9b2303baa16a8c7b0ea7ad8ba3.js",
+    "precache-manifest.7ff715936e505deeaa872385b7a5ef94.js": "/proelio-prototype/precache-manifest.7ff715936e505deeaa872385b7a5ef94.js",
     "service-worker.js": "/proelio-prototype/service-worker.js",
     "static/css/2.3f320bb4.chunk.css.map": "/proelio-prototype/static/css/2.3f320bb4.chunk.css.map",
     "static/css/main.7f0d1af2.chunk.css.map": "/proelio-prototype/static/css/main.7f0d1af2.chunk.css.map",
-    "static/js/2.7dbae67e.chunk.js.LICENSE.txt": "/proelio-prototype/static/js/2.7dbae67e.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/proelio-prototype/static/media/fa-solid-900.ec763292.svg",
-    "static/media/logo.svg": "/proelio-prototype/static/media/logo.5d5d9eef.svg"
+    "static/js/2.8b534959.chunk.js.LICENSE.txt": "/proelio-prototype/static/js/2.8b534959.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/proelio-prototype/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.86eb4796.js",
     "static/css/2.3f320bb4.chunk.css",
-    "static/js/2.7dbae67e.chunk.js",
+    "static/js/2.8b534959.chunk.js",
     "static/css/main.7f0d1af2.chunk.css",
-    "static/js/main.9aba9a2f.chunk.js"
+    "static/js/main.24646f2b.chunk.js"
   ]
 }

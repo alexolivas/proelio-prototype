@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0d6cc799729277ed64d8877107b6d5a",
+    "revision": "c23a915a4b45ee13f057659b2f2dcb32",
     "url": "/proelio-prototype/index.html"
   },
   {
-    "revision": "d85311af716dd93b8aa3",
+    "revision": "fbbf5f72cce21325a12d",
     "url": "/proelio-prototype/static/css/2.3f320bb4.chunk.css"
   },
   {
-    "revision": "5d6df1a30d7b7be6e1b7",
+    "revision": "bca770d04a3b348095f3",
     "url": "/proelio-prototype/static/css/main.7f0d1af2.chunk.css"
   },
   {
-    "revision": "d85311af716dd93b8aa3",
-    "url": "/proelio-prototype/static/js/2.7dbae67e.chunk.js"
+    "revision": "fbbf5f72cce21325a12d",
+    "url": "/proelio-prototype/static/js/2.8b534959.chunk.js"
   },
   {
-    "revision": "f17ba51ff6393f34eef1fb937eeee15d",
-    "url": "/proelio-prototype/static/js/2.7dbae67e.chunk.js.LICENSE.txt"
+    "revision": "8de50040f0d38ba00bdf5d2def5e9a16",
+    "url": "/proelio-prototype/static/js/2.8b534959.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d6df1a30d7b7be6e1b7",
-    "url": "/proelio-prototype/static/js/main.9aba9a2f.chunk.js"
+    "revision": "bca770d04a3b348095f3",
+    "url": "/proelio-prototype/static/js/main.24646f2b.chunk.js"
   },
   {
     "revision": "86ab52e00c2c1dc5ec61",
@@ -86,9 +86,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec763292e583294612f124c0b0def500",
     "url": "/proelio-prototype/static/media/fa-solid-900.ec763292.svg"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/proelio-prototype/static/media/logo.5d5d9eef.svg"
   }
 ]);
